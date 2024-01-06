@@ -1,0 +1,5 @@
+Compile them as:
+
+1) javac -d .\bin\ -classpath .\bin\ A.java
+2) javac -d .\bin\ -classpath .\bin\ B.java 
+3) javac -d .\bin\ -classpath .\bin\ Main.java

@@ -1,0 +1,11 @@
+Suppose, class A has a method m()
+Then, class B and Class C extends A. Suppose, B overrides m()
+Then, class D extends from both of B and C and it is not overriding m().
+
+I have two abstract classes A1, B1
+All methods in A1 and B1 are abstract
+Suppose A1 and B1 both has m(), but both of them are unimplemented.
+Eventually, if D would be allowed to extend from both A1 and B1, eventually D will
+have to implement m()
+
+Employee -> (1) Developer, (2) Manager, (3) NearDistance, (4) FarDistance
