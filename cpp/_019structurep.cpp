@@ -4,7 +4,7 @@
 */
 
 #include<bits/stdc++.h>   //cin,cout
-//#include<conio.h>    //clrscr(),getch()
+// #include<conio.h>    //clrscr(),getch()
 using namespace std;
 //void method1();
 
